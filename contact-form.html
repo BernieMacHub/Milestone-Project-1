@@ -76,7 +76,7 @@
       <section class="contact-form container mt-5 mb-5 px-5">
         <form>
           <h2 class="text-center uppercase">
-            Contact us for a Website enquiry!
+            Contact us for a Website enquiry! <i class="fa-solid fa-at"></i>
           </h2>
           <div class="form-group mt-5 mb-5 px-5 text-center">
             <label for="exampleFormControlInput1">Email address</label>
@@ -95,9 +95,10 @@
             <select
               class="form-control mt-3"
               id="exampleFormControlSelect1"
+              placeholder="Click to see Options"
               required
             >
-              <option>Click to Pick</option>
+              <option></option>
               <option>Blog</option>
               <option>Portfolio</option>
               <option>Ecommerce</option>
@@ -113,12 +114,16 @@
             <textarea
               class="form-control mt-3"
               id="exampleFormControlTextarea1"
+              placeholder="Provide any additional information here."
               rows="3"
               required
             ></textarea>
           </div>
           <div class="col-auto mx-auto mt-5 mb-5 px-5">
-            <button type="submit" class="btn btn-primary mx-auto mb-2">
+            <button
+              type="submit"
+              class="btn btn-primary mx-auto mb-2 form-submit-btn"
+            >
               Submit
             </button>
           </div>
