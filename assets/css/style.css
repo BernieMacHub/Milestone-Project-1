@@ -131,7 +131,7 @@ body {
 }
 
 .skills-containers {
-  height: 100px;
+  height: 90px;
   width: 30%;
   margin: auto;
   text-align: center;
@@ -145,15 +145,16 @@ body {
 }
 
 .icon {
-  height: 90px;
-  width: 10%;
+  margin: 5px;
+  height: 80px;
+  width: 30%;
   display: inline-block;
   vertical-align: middle;
 }
 
 .icon-text {
-  height: 90px;
-  width: 20%;
+  height: 80px;
+  width: 60%;
   display: inline-block;
   vertical-align: middle;
 }
