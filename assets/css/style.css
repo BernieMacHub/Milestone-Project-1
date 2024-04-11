@@ -180,6 +180,11 @@ body {
   }
 }
 
+@media (max-width: 768px);
+  .projects {
+    margin-bottom: 20px;
+  }
+
 @media (min-width: 1200px) {
   #hero-image {
     width: 100%;
