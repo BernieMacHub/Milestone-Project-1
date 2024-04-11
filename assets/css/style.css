@@ -58,12 +58,17 @@ body {
   color: var(--txt-primary);
 }
 
+#contact-form {
+  padding-bottom: 120px !important;
+  background: var(--container-bg);
+}
+
 #projects-header {
   color: var(--txt-primary);
 }
 
 .body {
-  padding-bottom: 65px;
+  padding-bottom: 60px;
   background: var(--container-bg);
 }
 
