@@ -184,8 +184,7 @@ body {
 }
 
 .icon-text {
-  height: 70px;
-  width: 70%;
+  padding: auto;
   display: inline-block;
   vertical-align: middle;
   text-align: center;
