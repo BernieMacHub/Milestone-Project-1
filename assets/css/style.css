@@ -42,9 +42,9 @@ body {
   align-items: center;
   display: block;
   width: auto;
-  background-color: var(--container-bg);
-  color: var(--bg-secondary);
-  border-color: var(--container-bg);
+  background-color: var(--bg-secondary) !important;
+  color: var(--txt-secondary) !important;
+  border-color: var(--bg-primary) !important;
 }
 
 .projects-links:hover {
@@ -64,7 +64,11 @@ body {
 }
 
 #projects-header {
-  color: var(--txt-primary);
+  color: var(--txt-secondary);
+}
+
+#projects {
+  background: url("../images/form-background.jpg") no-repeat center center;
 }
 
 .body {
@@ -115,7 +119,7 @@ body {
 }
 
 #hero-logo {
-  background: url("/assets/images/JVJDev.png") no-repeat center center;
+  background: url("../images/jvjdev.png") no-repeat center center;
   height: 100%;
   border-radius: 50%;
 }
@@ -127,7 +131,7 @@ body {
 
 .card {
   height: 350px !important;
-  background-color: var(--container-bgr) !important;
+  background-color: var(--txt-primary) !important;
   border-radius: 5px !important;
   border-color: var(--container-bg) !important;
   border-width: 5px !important;
@@ -135,6 +139,7 @@ body {
 
 .card-text {
   height: 90px;
+  color: var(--txt-secondary);
 }
 
 .text-white {
@@ -178,10 +183,6 @@ body {
   text-align: center;
 }
 
-.text-and-icon {
-  margin: auto;
-}
-
 .icon-text {
   height: 70px;
   width: 70%;
@@ -194,17 +195,17 @@ body {
 }
 
 #html {
-  background: url("/assets/images/html-5.png") no-repeat center center;
+  background: url("../images/html5.png") no-repeat center center;
   height: 100%;
 }
 
 #css {
-  background: url("/assets/images/css-3.png") no-repeat center center;
+  background: url("../images/css3.png") no-repeat center center;
   height: 100%;
 }
 
 #js {
-  background: url("/assets/images/javascript.png") no-repeat center center;
+  background: url("../images/javascript.png") no-repeat center center;
   height: 100%;
 }
 
