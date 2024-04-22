@@ -178,6 +178,10 @@ body {
   text-align: center;
 }
 
+.text-and-icon {
+  margin: auto;
+}
+
 .icon-text {
   height: 70px;
   width: 70%;
@@ -186,6 +190,7 @@ body {
   text-align: center;
   line-height: normal;
   font-size: 80%;
+  margin: auto;
 }
 
 #html {
