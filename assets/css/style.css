@@ -290,6 +290,7 @@ input[type="email"] {
 
 #about-me-section {
   height: 400px;
+  padding-top: 20px;
 }
 
 #left-about {
@@ -325,6 +326,10 @@ input[type="email"] {
   line-height: 20px;
   clear: both;
   margin-bottom: 50px;
+  background-color: rgba(60, 60, 60, 0.658);
+  color: var(--txt-primary);
+  padding: 20px;
+  border-radius: 5%;
 }
 
 .right-about-text p {
@@ -383,6 +388,32 @@ input[type="email"] {
     text-align: center;
     background-color: silver !important;
     opacity: 25%;
+  }
+
+  #about-me-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  #right-about {
+    margin: auto;
+    width: 95%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .right-about-text {
+    margin: auto;
+    line-height: 20px;
+    background-color: rgba(60, 60, 60, 0.658);
+    color: var(--txt-primary);
+    border-radius: 5%;
+    font-size: 75%;
+  }
+
+  .jumbotron {
+    height: 375px !important;
   }
 }
 
@@ -453,6 +484,55 @@ input[type="email"] {
   .join-button:hover {
     background-color: #fafafa;
     color: #f16c6b;
+  }
+
+  #left-about {
+    display: none;
+  }
+
+  #about-me-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  #right-about {
+    margin: auto;
+    width: 95%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .right-about-text {
+    margin: auto;
+    line-height: 20px;
+    background-color: rgba(60, 60, 60, 0.658);
+    color: var(--txt-primary);
+    padding: 20px;
+    border-radius: 5%;
+  }
+}
+
+@media (max-width: 1200px) {
+  .left-about-image {
+    width: 300px;
+    height: 300px;
+    padding: 25px;
+    background-image: var(--container-bgr);
+    border-radius: 50%;
+    margin-left: 25%;
+  }
+
+  .right-about-text {
+    width: 85%;
+    float: left;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+    background-color: rgba(60, 60, 60, 0.658);
+    color: var(--txt-primary);
+    padding: 20px;
+    border-radius: 5%;
   }
 }
 
