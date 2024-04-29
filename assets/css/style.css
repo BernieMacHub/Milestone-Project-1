@@ -16,12 +16,9 @@ body {
   margin-bottom: 85px;
 }
 
-#home-body {
-  background-color: white;
-}
-
 .active {
   border-bottom: 1px solid black;
+  color: var(--txt-alternate) !important;
 }
 
 #hero-container {
@@ -41,9 +38,8 @@ body {
 }
 
 .projects-links {
-  background-color: silver !important;
-  color: #fafafa !important;
-  border-color: var(--bg-primary) !important;
+  background-color: silver;
+  border-color: var(--bg-primary);
   margin-top: auto;
 }
 
@@ -66,24 +62,19 @@ body {
   padding-bottom: 20px;
 }
 
-.body {
-  padding-bottom: 60px;
-  background: var(--container-bg);
-}
-
 .uppercase {
   text-transform: uppercase;
 }
 
 .contact-us-btn {
-  background-color: silver !important;
-  color: #fafafa !important;
-  border-color: none !important;
+  background-color: silver;
+  color: #fafafa;
+  border-color: none;
 }
 
 .contact-us-btn:hover {
-  background-color: #fafafa !important;
-  color: var(--txt-alternate) !important;
+  background-color: #fafafa;
+  color: var(--txt-alternate);
 }
 
 #hero-logo-container {
@@ -95,8 +86,8 @@ body {
   width: 300px;
   height: 300px;
   padding: 10;
-  border-style: double;
-  border-color: var(--bg-secondary);
+  border-style: dotted;
+  border-color: var(--bg-alternate);
   border-width: 5px;
   border-radius: 50%;
   margin: 0 auto;
@@ -110,13 +101,13 @@ body {
 
 .jumbotron {
   background: var(--bg-secondary);
-  height: 300px !important;
+  height: 300px;
 }
 
 .card {
-  height: 350px !important;
-  background-image: var(--container-bg) !important;
-  border-radius: 5px !important;
+  height: 350px;
+  background-image: var(--container-bg);
+  border-radius: 5px;
   border-color: var(--container-bg) !important;
   border-width: 5px !important;
 }
@@ -286,6 +277,10 @@ input[type="email"] {
   color: var(--txt-alternate);
   border-color: var(--bg-alternate);
   border-width: 2px;
+}
+
+.nav-link:hover {
+  color: var(--txt-alternate) !important;
 }
 
 #about-me-section {
