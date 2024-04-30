@@ -260,15 +260,15 @@ input[type="email"] {
 
 #linkedin:hover {
   border-style: solid;
-  color: green;
-  border-color: green;
+  color: var(--txt-alternate);
+  border-color: var(--bg-alternate);
   border-width: 2px;
 }
 
 #github:hover {
   border-style: solid;
-  color: blue;
-  border-color: blue;
+  color: var(--txt-alternate);
+  border-color: var(--bg-alternate);
   border-width: 2px;
 }
 
@@ -398,6 +398,7 @@ input[type="email"] {
     justify-content: center;
     align-items: center;
   }
+
   .right-about-text {
     margin: auto;
     line-height: 20px;
@@ -498,6 +499,7 @@ input[type="email"] {
     justify-content: center;
     align-items: center;
   }
+
   .right-about-text {
     margin: auto;
     line-height: 20px;
