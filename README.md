@@ -69,3 +69,123 @@ I used Google Fonts for the text across the entire site.
 - The font used across the site is [Ubuntu](https://fonts.google.com/specimen/Ubuntu?preview.text=Mark.dev&query=Ubuntu). The text is simple and very easy to read all around.
 
 ![Poppins](documentation/ubuntu_text.PNG)
+
+## Wireframes
+
+
+
+## Features
+
+
+
+### Home Page
+
+
+
+### Experience
+
+
+
+### Projects
+
+
+
+### Contact
+
+
+
+## Form Submit
+
+
+## 404
+
+
+
+### Site Wide
+
+
+
+### Future Improvements/Changes
+
+
+
+### Accessibility
+
+
+
+#### Normal Colour Scheme
+
+
+#### Responsive Colour Scheme
+
+
+
+---
+
+## How It Was Built
+
+### Languages Used
+
+The languages that have been used throughout the development of the website are HTML & CSS.
+
+### Libraries, Websites & Programs Used
+
+- [VSCode](https://code.visualstudio.com/) - IDE.
+- [Git](https://git-scm.com/) - Version control.
+- [GitHub](https://github.com/) - Stores all files relating to the project.
+- [Canva](https://www.canva.com) - Website logo.
+- [Google Fonts](https://fonts.google.com/) - Font used across the site.
+- [Font Awesome](https://fontawesome.com/) - Brand icons.
+- [unsplash](https://unsplash.com/photos/a-white-abstract-background-with-hexagonal-shapes-rAH_wlhdURM) - Background image.
+- [Google Dev Tools](https://developer.chrome.com/docs/) - Dev tools.
+
+---
+
+## Deployment & Local Development
+
+### Deployment
+
+
+
+### Local Development
+
+#### How to Fork
+
+
+
+#### How to Clone
+
+
+
+---
+
+## Testing
+
+
+
+### Solved Bugs
+
+
+
+### Known Bugs
+
+
+
+---
+
+## Credits
+
+### Code Used
+
+
+
+### Page Content
+
+
+
+### Media
+
+
+
+### Acknowledgements
+
