@@ -86,9 +86,7 @@ body {
   width: 300px;
   height: 300px;
   padding: 10;
-  border-style: dotted;
-  border-color: var(--bg-alternate);
-  border-width: 5px;
+  border: 5px dotted var(--bg-alternate);
   border-radius: 50%;
   margin: 0 auto;
 }
@@ -127,9 +125,7 @@ body {
   margin: auto;
   text-align: center;
   border-radius: 20px;
-  border-style: solid;
-  border-width: 5px;
-  border-color: var(--container-bg);
+  border: 5px solid var(--container-bg);
   background-image: var(--container-bgr);
 }
 
@@ -361,9 +357,7 @@ input[type="email"] {
     margin-top: 50px;
     text-align: center;
     border-radius: 20px;
-    border-style: solid;
-    border-width: 5px;
-    border-color: var(--container-bg);
+    border: 5px solid var(--container-bg);
   }
 
   .icon {
@@ -428,9 +422,7 @@ input[type="email"] {
     margin-top: 50px;
     text-align: center;
     border-radius: 20px;
-    border-style: solid;
-    border-width: 5px;
-    border-color: var(--container-bg);
+    border: 5px solid var(--container-bg);
   }
 
   .icon {
@@ -546,9 +538,7 @@ input[type="email"] {
     margin-top: 50px;
     text-align: center;
     border-radius: 20px;
-    border-style: solid;
-    border-width: 5px;
-    border-color: var(--container-bg);
+    border: 5px solid var(--container-bg);
   }
 }
 
@@ -569,9 +559,7 @@ input[type="email"] {
     margin-top: 50px;
     text-align: center;
     border-radius: 20px;
-    border-style: solid;
-    border-width: 5px;
-    border-color: var(--container-bg);
+    border: 5px solid var(--container-bg);
   }
 
   .skills-containers:hover {
