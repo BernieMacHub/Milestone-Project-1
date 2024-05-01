@@ -40,9 +40,9 @@ I based my logo on the same colour scheme using a free logo made on [canva](http
 
 I then decided i wanted to change from the black and white idea to a silver gradient for the Nav bar and Footer.
 
-![Navbar](documentation/navbar.jpg)
+![Navbar](documentation/navbar.PNG)
 
-![Footer](documentation/footer.jpg)
+![Footer](documentation/footer.PNG)
    
 In my CSS file, I declared some custom variables for my colouring scheme that was implemented throughout the site. it was very handy being able to quickly edit the CSS using the variables rather than having to remember the specific colour I wanted or typing out a long gradient syntax.
 
@@ -60,6 +60,4 @@ In my CSS file, I declared some custom variables for my colouring scheme that wa
 
 - to show my understanding, I have used a variety of colour formats for my variables such as hexadecimal and RGBA.
 
-![final-scheme](documentation/palette.PNG)
-
----
+![final-scheme](documentation/palette.png)
