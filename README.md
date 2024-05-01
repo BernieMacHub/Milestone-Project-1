@@ -68,4 +68,4 @@ I used Google Fonts for the text across the entire site.
 
 - The font used across the site is [Ubuntu](https://fonts.google.com/specimen/Ubuntu?preview.text=Mark.dev&query=Ubuntu). The text is simple and very easy to read all around.
 
-![Poppins](assets/docs/ubuntu_text.PNG)
+![Poppins](documentation/ubuntu_text.PNG)
