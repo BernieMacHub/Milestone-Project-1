@@ -4,7 +4,7 @@
 
 # *JVJ Developments*
 
-My JVJ Developments website allows people to not just learn about the company JVJ Developments" but also information about myself and what makes me want to pursue this career. Additionally, viewers can also see the mini-projects undertaken leading up to the first milestone project. Viewers of the website could quickly contact the company about various services such as SEO, Marketing and of course, web development.
+My JVJ Developments website allows people to not just learn about the company "JVJ Developments" but also information about myself and what makes me want to pursue this career. Additionally, viewers can also see the mini-projects undertaken leading up to the first milestone project. Viewers of the website could quickly contact the company about various services such as SEO, Marketing and of course, web development.
 
 The site can be accessed by this [link](https://berniemachub.github.io/Milestone-Project-1/)
 
