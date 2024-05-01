@@ -8,7 +8,7 @@ My JVJ Developments website allows people to not just learn about the company JV
 
 The site can be accessed by this [link](https://berniemachub.github.io/Milestone-Project-1/)
 
-![Responsive Mockup](documentation/responsive_mockup.png)
+![Responsive Mockup](documentation/responsive_mockup.PNG)
 
 ---
 
@@ -60,4 +60,6 @@ In my CSS file, I declared some custom variables for my colouring scheme that wa
 
 - to show my understanding, I have used a variety of colour formats for my variables such as hexadecimal and RGBA.
 
-![final-scheme](documentation/palette.png)
+![final-scheme](documentation/palette.PNG)
+
+---
