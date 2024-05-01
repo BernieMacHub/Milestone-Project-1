@@ -508,6 +508,14 @@ input[type="email"] {
     padding: 20px;
     border-radius: 5%;
   }
+
+  .card {
+    width: 235px !important;
+  }
+
+  /* .card-text {
+    display: none !important;
+  } */
 }
 
 @media (max-width: 1200px) {
@@ -530,6 +538,17 @@ input[type="email"] {
     color: var(--txt-primary);
     padding: 20px;
     border-radius: 5%;
+  }
+
+  .skills-containers {
+    height: 90px;
+    width: 30%;
+    margin-top: 50px;
+    text-align: center;
+    border-radius: 20px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: var(--container-bg);
   }
 }
 
