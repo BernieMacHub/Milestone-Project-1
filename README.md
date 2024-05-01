@@ -1,4 +1,4 @@
-![JVJ Dev logo](documentation/jvjdev_doc_logo.png)
+![JVJ Dev logo](documentation/jvjdev_doc_logo.PNG)
 
 ---
 
