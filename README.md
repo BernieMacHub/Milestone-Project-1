@@ -38,7 +38,7 @@ As the page is meant to be a personal profile, I based my color scheme on Manche
 
 I based my logo on the same colour scheme using a free logo made on [canva](https://canva.com).
 
-I then decided i wanted to change from the black and white idea to a silver gradient for the Nav bar and Footer.
+I then decided I wanted to change from the black and white idea to a silver gradient for the Nav bar and Footer.
 
 ![Navbar](documentation/navbar.PNG)
 
@@ -104,7 +104,7 @@ The home page displays key information about the purpose of the website, the ser
 
 ### Projects
 
-The projects page displays the projects I have worked on so far. Each card contains a preview image of the targetted website, the title of the page and a brief overview of why the task was undertaken. Links are provided to a live version of the project deployed on Github.
+The projects page displays the projects I have worked on so far. Each card contains a preview image of the targetted website, the title of the page and a brief overview of why the task was undertaken. Links are provided to a live version of the project deployed on GitHub.
 
 ![Responsive Mockup](documentation/projects.PNG)
 
@@ -151,9 +151,9 @@ The languages that have been used throughout the development of the website are 
 - [VSCode](https://code.visualstudio.com/) - IDE used in the project.
 - [Git](https://git-scm.com/) - Version control.
 - [GitHub](https://github.com/) - Stores all files relating to the project.
-- [Balsamiq](https://balsamiq.com/) - Wireframes used to mock-up the site.
+- [Balsamiq](https://balsamiq.com/) - Wireframes used to mock up the site.
 - [Canva](https://www.canva.com) - Website logo.
-- [Google Fonts](https://fonts.google.com/) - Font used across the site.
+- [Google Fonts](https://fonts.google.com/) - Fonts used across the site.
 - [Font Awesome](https://fontawesome.com/) - Brand icons.
 - [unsplash](https://unsplash.com/photos/a-white-abstract-background-with-hexagonal-shapes-rAH_wlhdURM) - Background image.
 - [Google Dev Tools](https://developer.chrome.com/docs/) - Dev tools.
@@ -185,10 +185,6 @@ To fork the repository:
 1. Log in (or sign up) to Github.
 2. Go to the repository for this project, <https://github.com/BernieMacHub/Milestone-Project-1>
 3. Click the Fork button in the top right corner.
-
-#### How to Clone
-
-
 
 ---
 
@@ -228,5 +224,5 @@ I would like to give special acknowledgements to:
 
 - UCP-15 Discord.
 - Iuliia Konovalova - My Code Institute mentor.
-- Fellow students - working together in a discord to share ideas and give feedback to each others work.
+- Fellow students - working together in a discord to share ideas and give feedback on each other's work.
 
