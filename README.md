@@ -126,18 +126,17 @@ All pages have a Navigation Bar and Footer, all containing links to the homepage
 
 ### Future Improvements/Changes
 
+As I progress through the next learning module I will attempt to incorporate javascript into the website to add more appeal and some interactable.
 
+I will also add more to the projects page once more have been developed.
 
 ### Accessibility
 
+to make the site as accessible as possible I have tried to incorporate some components such as;
 
-
-#### Normal Colour Scheme
-
-
-#### Responsive Colour Scheme
-
-
+- Semantic HTML elements.
+- Hover effects to all links and buttons.
+- Simple font that is easy to read on all platforms.
 
 ---
 
@@ -165,13 +164,27 @@ The languages that have been used throughout the development of the website are 
 
 ### Deployment
 
-
+- The site was deployed to GitHub pages. The steps to deploy are as follows: 
+  - In the [GitHub repository](https://github.com/BernieMacHub/Milestone-Project-1), navigate to the Settings tab 
+  - From the source section drop-down menu, select the **Main** Branch, then click "Save".
+  - The page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
 ### Local Development
 
+In order to make a local copy of this project, you can clone it.
+In your IDE Terminal, type the following command to clone my repository:
+
+- `git clone https://github.com/BernieMacHub/Milestone-Project-1`
+
+- Alternatively, if you use Gitpod, you can [click here](https://gitpod.io/#https://github.com/BernieMacHub/Milestone-Project-1), which will start the Gitpod workspace for you.
+
 #### How to Fork
 
+To fork the repository:
 
+1. Log in (or sign up) to Github.
+2. Go to the repository for this project, <https://github.com/BernieMacHub/Milestone-Project-1>
+3. Click the Fork button in the top right corner.
 
 #### How to Clone
 
@@ -181,15 +194,7 @@ The languages that have been used throughout the development of the website are 
 
 ## Testing
 
-
-
-### Solved Bugs
-
-
-
-### Known Bugs
-
-
+Please refer to the [TESTING.md](TESTING.md) file for all test-related documentation.
 
 ---
 
@@ -197,15 +202,30 @@ The languages that have been used throughout the development of the website are 
 
 ### Code Used
 
+I have used code from the love running project, I utilised the form for my contact page, I edited the HTML to make it relevant to my project and tweaked it to my liking with CSS.
 
+I used a bootstrap for various things, simply because most were responsive across all platforms. Elements such as a Navbar, a Footer, Project Cards, a Hero Image and a Jumbotron. All of these sections have had custom styling applied to give them originality and less generic.
 
 ### Page Content
 
-
+- [this](https://getbootstrap.com/docs/4.1/components/navbar/) is where I source the Navbar.
+- [this](https://getbootstrap.com/docs/4.1/components/jumbotron/) is where I source the jumbotron.
+- [this](https://getbootstrap.com/docs/4.1/components/card/) is where I source the cards.
+- [this](https://getbootstrap.com/docs/5.0/examples/heroes/) is where I source the hero image.
+- [this](https://getbootstrap.com/docs/5.3/examples/footers/) is where I source the footer.
 
 ### Media
 
-
+- Background Image taken from [Unsplash](https://unsplash.com/photos/a-white-abstract-background-with-hexagonal-shapes-rAH_wlhdURM)
+- Logo Image created on [Canva](documentation/me.png)
+- About me image on homepage is my [photo]()
+- Social link icons were taken from [Fontawesome](https://fontawesome.com/kits)
+- Skills icons (HTML, CSS, Javascript) were taken from [Icon8](https://icons8.com/icons/set/javascript-html-css)
 
 ### Acknowledgements
+
+I would like to give special acknowledgements to:
+
+- UCP-15 Discord.
+- Iuliia Konovalova - My Code Institute mentor.
 
