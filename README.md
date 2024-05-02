@@ -52,9 +52,9 @@ In my CSS file, I declared some custom variables for my colouring scheme that wa
 
 - as mentioned above I ended up changing this to an image background and utilised the following gradients for the navbar, footer, 'about me' hero image, projects cards and skills section.
 
-- linear-gradient(to bottom right, black, silver);
-- linear-gradient(to top left, black, silver);
-- linear-gradient(to top left, white, rgb(80, 78, 78));
+linear-gradient(to bottom right, black, silver);
+linear-gradient(to top left, black, silver);
+linear-gradient(to top left, white, rgb(80, 78, 78));
 
 - my text colour scheme didn't change from the start, utilising 'red', '#000000' and '#ffffff'.
 
@@ -70,13 +70,21 @@ I used Google Fonts for the text across the entire site.
 
 ![Poppins](documentation/ubuntu_text.PNG)
 
+## Imagery
+
+- As mentioned above I originally intended on using a gradient for my background but ended up changing it to a background image to make the rest of the webpages pop off the background more.
+
+![background-image](documentation/form-background.png)
+
 ## Wireframes
 
 
 
 ## Features
 
+Wireframes were created for various devices using Balsamiq
 
+![desktop-wf](documentation/desktop-wf.png) ![ipad-ls-wf](documentation/ipad-ls-wf.png) ![ipad-pt-wf](documentation/ipad-pt-wf.png) ![mobile-wf](documentation/mobile-wf.png)
 
 ### Home Page
 
@@ -133,6 +141,7 @@ The languages that have been used throughout the development of the website are 
 - [VSCode](https://code.visualstudio.com/) - IDE.
 - [Git](https://git-scm.com/) - Version control.
 - [GitHub](https://github.com/) - Stores all files relating to the project.
+- [Balsamiq](https://balsamiq.com/) - Wireframes used to mock-up the site.
 - [Canva](https://www.canva.com) - Website logo.
 - [Google Fonts](https://fonts.google.com/) - Font used across the site.
 - [Font Awesome](https://fontawesome.com/) - Brand icons.

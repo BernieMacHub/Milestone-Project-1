@@ -2,57 +2,76 @@
 <html lang="en">
 
 <head>
+
+  <!-- Meta tags -->
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="keywords" content="HTML, CSS, JavaScript" />
   <meta name="description" content="Website Building with HTML and CSS" />
+
+  <!-- Title -->
   <title>JVJ.dev - Full Stack Developer Portfolio</title>
+
+  <!-- External Stylesheets -->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
     integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous" />
+
+  <!-- Font Awesome -->
   <script src="https://kit.fontawesome.com/faddffa861.js" crossorigin="anonymous"></script>
+
+  <!-- Google Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap" rel="stylesheet" />
+
+  <!-- Custom CSS -->
   <link rel="stylesheet" href="assets/css/style.css" type="text/css" />
 </head>
 
 <body>
-  <!-- Header, Logo and Navigation Section -->
+  <!-- Header, Logo, and Navigation Section -->
   <header>
-    <div>
-      <nav class="navbar navbar-expand-lg bg-body-tertiary">
-        <div class="container-fluid">
-          <a class="navbar-brand" href="index.html" aria-label="Home page">
-            <img src="assets/images/jvjdev.png" alt="Logo" width="30" height="30"
-              class="d-inline-block align-text-top" />
-            JVJ Developments
-          </a>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
-            aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-          </button>
-          <div class="collapse navbar-collapse" id="navbarNav">
-            <ul class="navbar-nav ms-auto">
-              <li class="nav-item">
-                <a class="nav-link" href="index.html" aria-label="Home page"><i class="fa-solid fa-house"></i> Home</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="projects.html" aria-label="Projects page"><i
-                    class="fa-solid fa-diagram-project"></i> Projects</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="contact-form.html" aria-label="Contact Page"><i class="fa-solid fa-at"></i>
-                  Contact Us</a>
-              </li>
-            </ul>
-          </div>
+    <nav class="navbar navbar-expand-lg bg-body-tertiary">
+      <div class="container-fluid">
+        <!-- Logo and Brand -->
+        <a class="navbar-brand" href="index.html" aria-label="Home page">
+          <img src="assets/images/jvjdev.png" alt="Logo" width="30" height="30" class="d-inline-block align-text-top">
+          JVJ Developments
+        </a>
+        <!-- Toggle Button -->
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+          aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <!-- Navbar Links -->
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav ms-auto">
+            <!-- Home -->
+            <li class="nav-item">
+              <a class="nav-link" href="index.html" aria-label="Home page"><i class="fa-solid fa-house"></i> Home</a>
+            </li>
+            <!-- Projects -->
+            <li class="nav-item">
+              <a class="nav-link active" aria-current="page" href="projects.html" aria-label="Projects page"><i
+                  class="fa-solid fa-diagram-project"></i> Projects</a>
+            </li>
+            <!-- Contact -->
+            <li class="nav-item">
+              <a class="nav-link" href="contact-form.html" aria-label="Contact Page"><i class="fa-solid fa-at"></i>
+                Contact Us</a>
+            </li>
+          </ul>
         </div>
-      </nav>
-    </div>
+      </div>
+    </nav>
   </header>
+
   <!-- Test Section -->
-  <!-- <h1>This is a test</h1> -->
-  <!-- <p>Hello World!</p> -->
-  <!-- <button>Click Me!</button> -->
+  <!-- 
+    <h1>This is a test</h1>
+    <p>Hello World!</p>
+    <button>Click Me!</button>
+  -->
+
   <main>
     <section class="pt-5 pb-5" id="projects">
       <!-- Links to other projects -->
@@ -63,14 +82,13 @@
         <div class="row justify-content-center">
           <div class="projects col-12 col-md-4">
             <div class="card mx-auto shadow border" style="width: 18rem">
-              <img class="card-img-top" src="assets/images/coderscoffeehouse.png" alt="Card image cap" />
+              <img class="card-img-top" src="assets/images/coderscoffeehouse.png" alt="Card image cap">
               <div class="card-body">
                 <h5 class="card-title text-center text-white">
                   Coders Coffeehouse
                 </h5>
                 <p class="card-text text-center text-white">
-                  The focus was to learn the differnet
-                  elements and components available in HTML and CSS.
+                  The focus was to learn the different elements and components available in HTML and CSS.
                 </p>
                 <a href="https://berniemachub.github.io/CodersCoffeehouse/" target="_blank"
                   class="btn btn-primary projects-links"
@@ -80,12 +98,11 @@
           </div>
           <div class="projects col-12 col-md-4">
             <div class="card mx-auto shadow border" style="width: 18rem">
-              <img class="card-img-top" src="assets/images/loverunning.png" alt="Card image cap" />
+              <img class="card-img-top" src="assets/images/loverunning.png" alt="Card image cap">
               <div class="card-body">
                 <h5 class="card-title text-center text-white">Love Running</h5>
                 <p class="card-text text-center text-white">
-                  This Web page was made to learn how to use CSS to quickly
-                  style a responsive website.
+                  This Web page was made to learn how to use CSS to quickly style a responsive website.
                 </p>
                 <a href="https://berniemachub.github.io/Love-Running/" target="_blank"
                   class="btn btn-primary projects-links"
@@ -95,11 +112,11 @@
           </div>
           <div class="projects col-12 col-md-4">
             <div class="card mx-auto shadow border" style="width: 18rem">
-              <img class="card-img-top" src="assets/images/whiskeydrop.png" alt="Card image cap" />
+              <img class="card-img-top" src="assets/images/whiskeydrop.png" alt="Card image cap">
               <div class="card-body">
                 <h5 class="card-title text-center text-white">Whiskey Drop</h5>
                 <p class="card-text text-center text-white">
-                  Final project before MP1, demonstrates the effeciveness of Bootstrap but also its limitations.
+                  Final project before MP1, demonstrates the effectiveness of Bootstrap but also its limitations.
                 </p>
                 <a href="https://berniemachub.github.io/Whiskey-Drop/" target="_blank"
                   class="btn btn-primary projects-links"
@@ -110,6 +127,7 @@
         </div>
       </div>
     </section>
+
     <section id="skills">
       <div class="skills row">
         <div class="btn col-md-4 skills-containers">
@@ -120,38 +138,35 @@
             </div>
             <div class="col-8 icon-text">
               HTML and is the standard markup language for creating Web pages.
+            </div>
+          </a>
+        </div>
+        <div class="btn col-md-4 skills-containers">
+          <a href="https://g.co/kgs/W6KCtnC" class="text-white" aria-label="CSS Google Page" target="_blank">
+            <div class="row"></div>
+            <div class="col-4 icon">
+              <div id="css" alt="CSS 3"></div>
+            </div>
+            <div class="col-8 icon-text">
+              CSS is the code that styles web content.
+            </div>
+          </a>
+        </div>
+        <div class="btn col-md-4 skills-containers">
+          <a href="https://g.co/kgs/GP3homz" class="text-white" aria-label="Javascript Google Page" target="_blank">
+            <div class="row"></div>
+            <div class="col-4 icon">
+              <div id="js" alt="JavaScript"></div>
+            </div>
+            <div class="col-8 icon-text">
+              JavaScript allows you to implement complex features on web pages.
+            </div>
           </a>
         </div>
       </div>
-      </a>
-      <div class="btn col-md-4 skills-containers">
-        <a href="https://g.co/kgs/W6KCtnC" class="text-white" aria-label="CSS Google Page" target="_blank">
-          <div class="row"></div>
-          <div class="col-4 icon">
-            <div id="css" alt="CSS 3"></div>
-          </div>
-          <div class="col-8 icon-text">
-            CSS is the code that styles web content.
-        </a>
-      </div>
-      </div>
-      </a>
-      <div class="btn col-md-4 skills-containers">
-        <a href="https://g.co/kgs/GP3homz" class="text-white" aria-label="Javascript Google Page" target="_blank">
-          <div class="row"></div>
-          <div class="col-4 icon">
-            <div id="js" alt="JavaScript"></div>
-          </div>
-          <div class="col-8 icon-text">
-            JavaScript allows you to implement complex features on web pages.
-        </a>
-      </div>
-      </div>
-      </div>
-      </a>
     </section>
   </main>
-  <!-- Links to other online presences -->
+
   <!-- Footer -->
   <footer class="footer bg-body-tertiary text-center fixed-bottom">
     <!-- Grid container -->
@@ -161,26 +176,22 @@
         <!-- Facebook -->
         <a data-mdb-ripple-init class="btn btn-outline btn-floating m-1" id="facebook" href="https://facebook.com"
           target="_blank" aria-label="Click here to go to facebook" role="button"><i class="fab fa-facebook-f"></i></a>
-
         <!-- Linkedin -->
         <a data-mdb-ripple-init class="btn btn-outline btn-floating m-1" id="linkedin" href="https://linkedin.com"
           target="_blank" aria-label="Click here to go to linkedin" role="button"><i class="fab fa-linkedin-in"></i></a>
-
         <!-- Github -->
         <a data-mdb-ripple-init class="btn btn-outline btn-floating m-1" id="github"
           href="https://github.com/BernieMacHub" target="_blank" aria-label="Click here to go to GitHub"
           role="button"><i class="fab fa-github"></i></a>
       </section>
-      <!-- Section: Social media -->
-      <!-- Section: Text -->
     </div>
     <!-- Copyright -->
     <div class="text-center p-1" style="background-color: rgba(0, 0, 0, 0.05)">
-      © 2020 Copyright
+      © 2024 JVJ.dev All rights reserved.
     </div>
-    <!-- Copyright -->
   </footer>
-  <!-- Footer -->
+
+  <!-- Bootstrap Bundle JS -->
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
     integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous">
   </script>
