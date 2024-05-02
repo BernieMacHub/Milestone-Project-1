@@ -94,7 +94,7 @@ Each page is responsive across a range of popular devices.
 
 - The title of the page is displayed site-wide and is also used to navigate back to the home page.
 
-![home-title](documentation/title-preview.png)
+![home-title](documentation/title-preview.PNG)
 
 ### Home Page
 
@@ -228,4 +228,5 @@ I would like to give special acknowledgements to:
 
 - UCP-15 Discord.
 - Iuliia Konovalova - My Code Institute mentor.
+- Fellow students - working together in a discord to share ideas and give feedback to each others work.
 
