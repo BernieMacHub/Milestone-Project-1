@@ -106,7 +106,7 @@ The home page displays key information about the purpose of the website, the ser
 
 The projects page displays the projects I have worked on so far. Each card contains a preview image of the targetted website, the title of the page and a brief overview of why the task was undertaken. Links are provided to a live version of the project deployed on Github.
 
-![Responsive Mockup](documentation/homepage.PNG)
+![Responsive Mockup](documentation/projects.PNG)
 
 ### Contact
 
@@ -149,7 +149,7 @@ The languages that have been used throughout the development of the website are 
 
 ### Libraries, Websites & Programs Used
 
-- [VSCode](https://code.visualstudio.com/) - IDE.
+- [VSCode](https://code.visualstudio.com/) - IDE used in the project.
 - [Git](https://git-scm.com/) - Version control.
 - [GitHub](https://github.com/) - Stores all files relating to the project.
 - [Balsamiq](https://balsamiq.com/) - Wireframes used to mock-up the site.
