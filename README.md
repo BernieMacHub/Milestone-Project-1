@@ -78,40 +78,51 @@ I used Google Fonts for the text across the entire site.
 
 ## Wireframes
 
-
-
-## Features
-
 Wireframes were created for various devices using Balsamiq
 
 ![desktop-wf](documentation/desktop-wf.png) ![ipad-ls-wf](documentation/ipad-ls-wf.png) ![ipad-pt-wf](documentation/ipad-pt-wf.png) ![mobile-wf](documentation/mobile-wf.png)
 
+## Features
+
+The website is set across 4 pages, made up of a Home page, a Projects page, a Contact page and a form response page (this page is only visible when the contact form is submitted).
+
+Each page is responsive across a range of popular devices.
+
+- Each page features a Favicon in the browser tab
+
+![favicon](documentation/favicon-preview.png)
+
+- The title of the page is displayed site-wide and is also used to navigate back to the home page.
+
+![home-title](documentation/title-preview.png)
+
 ### Home Page
 
+The home page displays key information about the purpose of the website, the services provided as well as information about myself.
 
-
-### Experience
-
-
+![Responsive Mockup](documentation/homepage.PNG)
 
 ### Projects
 
+The projects page displays the projects I have worked on so far. Each card contains a preview image of the targetted website, the title of the page and a brief overview of why the task was undertaken. Links are provided to a live version of the project deployed on Github.
 
+![Responsive Mockup](documentation/homepage.PNG)
 
 ### Contact
 
+This is a very simple form that allows the user to contact me, they can submit the form and wait for a response, or this method allows them to utilise radio options to pick what servers they are seeking. 
 
+![Responsive Mockup](documentation/contact.PNG)
 
 ## Form Submit
 
+This page informs the user that the form was submitted successfully, it also provides the user with a second option. The second method allows the user to send a direct email, this allows them to give more detail about the services they require.
 
-## 404
-
-
+![Responsive Mockup](documentation/response.PNG)
 
 ### Site Wide
 
-
+All pages have a Navigation Bar and Footer, all containing links to the homepage, contact, and projects for easy maneuverability across all pages. The footer also contains various social links such as Facebook, Linkedin and Github.
 
 ### Future Improvements/Changes
 
