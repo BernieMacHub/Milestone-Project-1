@@ -69,7 +69,6 @@ body {
 .contact-us-btn {
   background-color: silver;
   color: #fafafa;
-  border-color: none;
 }
 
 .contact-us-btn:hover {
@@ -85,7 +84,6 @@ body {
 #hero-logo-border {
   width: 300px;
   height: 300px;
-  padding: 10;
   border: 5px dotted var(--bg-alternate);
   border-radius: 50%;
   margin: 0 auto;
@@ -106,7 +104,7 @@ body {
   height: 350px;
   background-image: var(--container-bg);
   border-radius: 5px;
-  border-color: var(--container-bg) !important;
+  border-image: var(--container-bg) !important;
   border-width: 5px !important;
 }
 
@@ -125,7 +123,8 @@ body {
   margin: auto;
   text-align: center;
   border-radius: 20px;
-  border: 5px solid var(--container-bg);
+  border: 1px solid;
+  border-image: var(--container-bg);
   background-image: var(--container-bgr);
 }
 
@@ -156,7 +155,6 @@ body {
 }
 
 .icon-text {
-  padding: auto;
   display: inline-block;
   vertical-align: middle;
   text-align: center;
@@ -361,7 +359,8 @@ input[type="email"] {
     margin-top: 50px;
     text-align: center;
     border-radius: 20px;
-    border: 5px solid var(--container-bg);
+    border: 1px solid;
+    border-image: var(--container-bg);
   }
 
   .icon {
@@ -426,7 +425,8 @@ input[type="email"] {
     margin-top: 50px;
     text-align: center;
     border-radius: 20px;
-    border: 5px solid var(--container-bg);
+    border: 1px solid;
+    border-image: var(--container-bg);
   }
 
   .icon {
@@ -542,7 +542,8 @@ input[type="email"] {
     margin-top: 50px;
     text-align: center;
     border-radius: 20px;
-    border: 5px solid var(--container-bg);
+    border: 1px solid;
+    border-image: var(--container-bg);
   }
 }
 
@@ -551,7 +552,6 @@ input[type="email"] {
     width: 100%;
     height: 500px;
     background-repeat: no-repeat;
-    background-color: var(--container-bg);
     align-items: center;
     display: block;
     margin: auto;
@@ -563,7 +563,9 @@ input[type="email"] {
     margin-top: 50px;
     text-align: center;
     border-radius: 20px;
-    border: 5px solid var(--container-bg);
+    border: 1px solid;
+    border-image: var(--container-bg);
+    border-image: var(--container-bg);
   }
 
   .skills-containers:hover {

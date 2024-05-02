@@ -31,3 +31,55 @@
 | "Submit" button | Click on the "Submit" button | The user is redirected to the response page | Yes | Yes | - |
 | Response page | | | | | |
 | "Email" link | Click on the "Email" link | The user is redirected to their default email platform | Yes | Yes | - |
+
+## Validator testing - HTML
+
+### Info messages
+
+#### Home, Projects, Contact and Response Page
+- All Info messages have been ignored, no effect on page performance and is caused by VScode extension 'Beautify'
+![](documentation/w3c-info.PNG)
+![](documentation/w3c-project-info.PNG)
+![](documentation/w3c-contact-info.PNG)
+![](documentation/w3c-response-info.PNG)
+
+### Warnings
+
+#### Home, Projects, Contact and Response Page
+- Warnings have been ignored, regarding sections not having headings, Tutor agreed it can be dismissed aslong as acknowledging when debuging.
+![](documentation/w3c-warnings.PNG)
+![](documentation/w3c-project-warnings.PNG)
+![](documentation/w3c-contact-warnings.PNG)
+![](documentation/w3c-response-warnings.PNG)
+
+### Errors
+
+#### Home
+- Removed Stray </main> tag
+- fixed the unclosed the <div> element
+- Removed Stray </div> tag
+![](documentation/w3c-errors.PNG)
+
+#### Projects
+![](documentation/w3c-project-errors.PNG)
+
+#### Contact
+- No Errors Present.
+
+#### Response
+- No Errors Present.
+
+## Validator testing - CSS
+
+#### Errors
+- Removed border for .contact-us-btn
+- Removed padding and incorrect value for .icon-text
+- Removed padding on #hero-logo-border
+- Removed Background for #hero-image
+- Fixed border on .card
+- Fixed all border issues relating to the .skills-containers
+
+#### Warnings
+- Ignored, just letting me know that it's not going to validate the imported style sheet. It's not an error, just some information for me.
+![](documentation/css-validaton.PNG)
+
