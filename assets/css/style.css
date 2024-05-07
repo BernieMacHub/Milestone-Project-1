@@ -58,7 +58,7 @@
 }
 
 #projects {
-  margin-top: px;
+  margin-top: 70px;
 }
 
 .uppercase {
@@ -323,7 +323,7 @@ input[type="email"] {
 }
 
 .background {
-  background: url("../images/form-background.jpg") no-repeat center center;
+  background: url("../images/form-background.png") no-repeat center center;
 }
 
 .signup-form h2 {
@@ -340,7 +340,7 @@ input[type="email"] {
 
 @media (max-width: 576px) {
   .projects {
-    margin-bottom: 20px;
+    margin-top: 20px;
   }
 
   .body {
