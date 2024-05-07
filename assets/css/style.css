@@ -58,8 +58,7 @@
 }
 
 #projects {
-  background: url("../images/form-background.jpg") no-repeat center center;
-  /* padding-bottom: 20px; */
+  margin-top: px;
 }
 
 .uppercase {
@@ -181,10 +180,9 @@
 
 .form-section {
   clear: left;
-  background: url("../images/form-background.jpg");
   background-size: cover;
   background-position: center;
-  height: 800px;
+  height: 850px;
   display: flex;
   justify-content: center;
   align-items: center;
