@@ -146,11 +146,9 @@ to make the site as accessible as possible I have tried to incorporate some comp
 
 The languages that have been used throughout the development of the website are HTML & CSS.
 
-### Libraries, Websites & Programs Used
+### Technologies Used
 
 - [VSCode](https://code.visualstudio.com/) - IDE used in the project.
-- [Git](https://git-scm.com/) - Version control.
-- [GitHub](https://github.com/) - Stores all files relating to the project.
 - [Balsamiq](https://balsamiq.com/) - Wireframes used to mock up the site.
 - [Canva](https://www.canva.com) - Website logo.
 - [Google Fonts](https://fonts.google.com/) - Fonts used across the site.

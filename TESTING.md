@@ -17,12 +17,12 @@
 | Home page | | | | | |
 | "Get in touch" button in Callout section | Click on the "Get in touch" button | The user is redirected to the contact page | Yes | Yes | - |
 | Projects page | | | | | |
-| "Visit Site" button in Coders Coffeehouse Card | Click on the "Visit Site" button | The user is redirected to the contact page | Yes | Yes | - |
-| "Visit Site" button in Love Running Card | Click on the "Visit Site" button | The user is redirected to the contact page | Yes | Yes | - |
-| "Visit Site" button in Whiskey Drop | Click on the "Visit Site" button | The user is redirected to the contact page | Yes | Yes | - |
-| "HTML box" button in skills section | Click on the "HTML box" button | The user is redirected to the contact page | Yes | Yes | - |
-| "CSS box" button in skills section | Click on the "CSS box" button | The user is redirected to the contact page | Yes | Yes | - |
-| "Javascript box" button in skills section | Click on the "Javascript box" button | The user is redirected to the contact page | Yes | Yes | - |
+| "Visit Site" button in Coders Coffeehouse Card | Click on the "Visit Site" button | The user is redirected to Coders Coffeehouse website | Yes | Yes | - |
+| "Visit Site" button in Love Running Card | Click on the "Visit Site" button | The user is redirected to Love Running website | Yes | Yes | - |
+| "Visit Site" button in Whiskey Drop | Click on the "Visit Site" button | The user is redirected to Whiskey Drop website | Yes | Yes | - |
+| "HTML box" button in skills section | Click on the "HTML box" button | The user is redirected to HTML Google page | Yes | Yes | - |
+| "CSS box" button in skills section | Click on the "CSS box" button | The user is redirected to the CSS Google page | Yes | Yes | - |
+| "Javascript box" button in skills section | Click on the "Javascript box" button | The user is redirected to the Javascript Google page | Yes | Yes | - |
 | Contact page | | | | | |
 | First name input | Enter the first name | The first name is entered | Yes | Yes | If user doesn't enter the first name, the error message appears |
 | Last name input | Enter the last name | The last name is entered | Yes | Yes | If user doesn't enter the last name, the error message appears |
