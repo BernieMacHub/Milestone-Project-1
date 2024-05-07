@@ -96,3 +96,5 @@ warnings also ignored due to having no conseqeunce either.
 ![](documentation/projects-large-screen.png)
 ![](documentation/contact-large-screen.png)
 ![](documentation/response-large-screen.png)
+
+### _Any bugs encountered have since been corrected. Full details of the bugs are in [README.md](https://github.com/BernieMacHub/Milestone-Project-1/blob/main/README.md)_
