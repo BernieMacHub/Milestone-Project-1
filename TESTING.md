@@ -68,5 +68,5 @@ Mobile Results:
 ![](documentation/response-lh-mobile.PNG)
 
 I made improvements to Projects page Performance by reducing the image sized, results below:
-![](documentation/home-lh-desktop-imporved.PNG)
-![](documentation/home-lh-mobile-imporved.PNG)
+![](documentation/projects-lh-desktop-imporved.PNG)
+![](documentation/projects-lh-mobile-imporved.PNG)
