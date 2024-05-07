@@ -76,19 +76,19 @@ I made improvements to Projects page Performance by reducing the image sized, re
 I used Responsive Viewer extension for google chrome to test the responsiveness on various differnet platforms to maintain a uniform appearance across all devices.
 
 Below is how all pages (Home, Projects, Contact and Response) will look across a Mobile device.
-![](documentation/home-iphone.PNG)
-![](documentation/projects-iphone.PNG)
-![](documentation/contact-iphone.PNG)
-![](documentation/response-iphone.PNG)
+![](documentation/home-iphone.png)
+![](documentation/projects-iphone.png)
+![](documentation/contact-iphone.png)
+![](documentation/response-iphone.png)
 
 Below is how all pages (Home, Projects, Contact and Response) will look across a Medium device such as a tablet.
-![](documentation/home-medium-screen.PNG)
-![](documentation/projects-medium-screen.PNG)
-![](documentation/contact-medium-screen.PNG)
-![](documentation/response-medium-screen.PNG)
+![](documentation/home-medium-screen.png)
+![](documentation/projects-medium-screen.png)
+![](documentation/contact-medium-screen.png)
+![](documentation/response-medium-screen.png)
 
 Below is how all pages (Home, Projects, Contact and Response) will look across a Medium device such as a desktop monitor.
-![](documentation/home-large-screen.PNG)
-![](documentation/projects-large-screen.PNG)
-![](documentation/contact-large-screen.PNG)
-![](documentation/response-large-screen.PNG)
+![](documentation/home-large-screen.png)
+![](documentation/projects-large-screen.png)
+![](documentation/contact-large-screen.png)
+![](documentation/response-large-screen.png)
