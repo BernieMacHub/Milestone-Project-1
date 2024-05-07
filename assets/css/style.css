@@ -252,25 +252,14 @@ input[type="email"] {
   margin: 0 auto;
 }
 
-#linkedin:hover {
-  border-style: solid;
-  color: var(--txt-alternate);
-  border-color: var(--bg-alternate);
-  border-width: 2px;
-}
-
-#github:hover {
-  border-style: solid;
-  color: var(--txt-alternate);
-  border-color: var(--bg-alternate);
-  border-width: 2px;
-}
-
+#linkedin:hover,
+#github:hover,
 #facebook:hover {
-  border-style: solid;
+  /* border-style: solid; */
   color: var(--txt-alternate);
-  border-color: var(--bg-alternate);
-  border-width: 2px;
+  /* border-color: var(--bg-alternate);
+  border-width: 2px; */
+  outline: 2px solid red;
 }
 
 .nav-link:hover {

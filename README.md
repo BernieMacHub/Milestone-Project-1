@@ -36,7 +36,7 @@ The site can be accessed by this [link](https://berniemachub.github.io/Milestone
 
 As the page is meant to be a personal profile, I based my color scheme on Manchester United's Red, White and Black. With that as my starting point, I initially opted for a linear gradient background but ended up changing it to a background image across all pages. I found the image on [unsplash](https://unsplash.com/photos/a-white-abstract-background-with-hexagonal-shapes-rAH_wlhdURM).
 
-I based my logo on the same colour scheme using a free logo made on [canva](https://canva.com).
+I based my logo on the same colour scheme using a free logo made on [Canva](https://canva.com).
 
 I then decided I wanted to change from the black and white idea to a silver gradient for the Nav bar and Footer.
 
