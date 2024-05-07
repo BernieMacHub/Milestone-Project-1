@@ -34,10 +34,10 @@
 
 ## Validator testing - HTML
 
-Info tags have been ignored due to being caused by 'Prettier' Extension in vs.code and has no consequence on webpage.
+- Info tags have been ignored due to being caused by 'Prettier' Extension in vs.code and has no consequence on webpage.
 warnings also ignored due to having no conseqeunce either.
 
-images of results shown below for Home, Projects, Contact and Response page.
+#### images of results shown below for Home, Projects, Contact and Response page.
 ![](documentation/w3c-validator-home.PNG)
 ![](documentation/w3c-validator-projects.PNG)
 ![](documentation/w3c-validator-contact.PNG)
@@ -45,49 +45,53 @@ images of results shown below for Home, Projects, Contact and Response page.
 
 ## Validator testing - CSS
 
-No errors present in CSS. Ignored the warnings, just letting me know that it's not going to validate the imported style sheet. It's not an error, just some information for me.
+#### No errors present in CSS. Ignored the warnings, just letting me know that it's not going to validate the imported style sheet. It's not an error, just some information for me.
+
 ![](documentation/css-validaton.PNG)
-
-
-### Bugs
 
 ### Lighthouse
 
 - First tests i ran were scoring green on desktop except projects, and all in the top quarter (75%+) on mobile platforms.
 
-Desktop Results:
+#### Desktop Results:
+
 ![](documentation/home-lh-desktop.PNG)
 ![](documentation/projects-lh-desktop.PNG)
 ![](documentation/contact-lh-desktop.PNG)
 ![](documentation/response-lh-desktop.PNG)
 
-Mobile Results:
+#### Mobile Results:
+
 ![](documentation/home-lh-mobile.PNG)
 ![](documentation/projects-lh-mobile.PNG)
 ![](documentation/contact-lh-mobile.PNG)
 ![](documentation/response-lh-mobile.PNG)
 
-I made improvements to Projects page Performance by reducing the image sized, results below:
+#### I made improvements to Projects page Performance by reducing the image sized, results below:
+
 ![](documentation/projects-lh-desktop-improved.PNG)
 ![](documentation/projects-lh-mobile-improved.PNG)
 
 ## Responsiveness
 
-I used Responsive Viewer extension for google chrome to test the responsiveness on various differnet platforms to maintain a uniform appearance across all devices.
+### I used Responsive Viewer extension for google chrome to test the responsiveness on various differnet platforms to maintain a uniform appearance across all devices.
 
-Below is how all pages (Home, Projects, Contact and Response) will look across a Mobile device.
+#### Below is how all pages (Home, Projects, Contact and Response) will look across a Mobile device.
+
 ![](documentation/home-iphone.png)
 ![](documentation/projects-iphone.png)
 ![](documentation/contact-iphone.png)
 ![](documentation/response-iphone.png)
 
-Below is how all pages (Home, Projects, Contact and Response) will look across a Medium device such as a tablet.
+#### Below is how all pages (Home, Projects, Contact and Response) will look across a Medium device such as a tablet.
+
 ![](documentation/home-medium-screen.png)
 ![](documentation/projects-medium-screen.png)
 ![](documentation/contact-medium-screen.png)
 ![](documentation/response-medium-screen.png)
 
-Below is how all pages (Home, Projects, Contact and Response) will look across a Medium device such as a desktop monitor.
+#### Below is how all pages (Home, Projects, Contact and Response) will look across a Medium device such as a desktop monitor.
+
 ![](documentation/home-large-screen.png)
 ![](documentation/projects-large-screen.png)
 ![](documentation/contact-large-screen.png)
