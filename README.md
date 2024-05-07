@@ -74,7 +74,7 @@ I used Google Fonts for the text across the entire site.
 
 - As mentioned above I originally intended on using a gradient for my background but ended up changing it to a background image to make the rest of the webpages pop off the background more.
 
-![background-image](documentation/form-background.png)
+![background-image](documentation/form-background.jpg)
 
 ## Wireframes
 
