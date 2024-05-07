@@ -37,7 +37,7 @@
 ### Info messages
 
 #### Home, Projects, Contact and Response Page
-- All Info messages have been ignored, no effect on page performance and is caused by VScode extension 'Beautify'
+- All Info messages deisplayed in the images below have been ignored, no effect on page performance and is caused by VScode extension 'Prettier'.
 ![](documentation/w3c-info.PNG)
 ![](documentation/w3c-project-info.PNG)
 ![](documentation/w3c-contact-info.PNG)
@@ -71,15 +71,36 @@
 
 ## Validator testing - CSS
 
-#### Errors
-- Removed border for .contact-us-btn
-- Removed padding and incorrect value for .icon-text
-- Removed padding on #hero-logo-border
-- Removed Background for #hero-image
-- Fixed border on .card
-- Fixed all border issues relating to the .skills-containers
+#### Errors Fixed
+Removed border for .contact-us-btn
+Removed padding and incorrect value for .icon-text
+Removed padding on #hero-logo-border
+Removed Background for #hero-image
+Fixed border on .card
+Fixed all border issues relating to the .skills-containers
 
 #### Warnings
 - Ignored, just letting me know that it's not going to validate the imported style sheet. It's not an error, just some information for me.
 ![](documentation/css-validaton.PNG)
 
+### Bugs
+
+### Lighthouse
+
+- First tests i ran were scoring green on desktop except projects, and all in the top quarter (75%+) on mobile platforms.
+
+Desktop Results:
+![](documentation/home-lh-desktop.PNG)
+![](documentation/projects-lh-desktop.PNG)
+![](documentation/contact-lh-desktop.PNG)
+![](documentation/response-lh-desktop.PNG)
+
+Mobile Results:
+![](documentation/home-lh-mobile.PNG)
+![](documentation/projects-lh-mobile.PNG)
+![](documentation/contact-lh-mobile.PNG)
+![](documentation/response-lh-mobile.PNG)
+
+I made improvements to Projects page Performance by reducing the image sized, results below:
+![](documentation/home-lh-desktop-imporved.PNG)
+![](documentation/home-lh-mobile-imporved.PNG)
